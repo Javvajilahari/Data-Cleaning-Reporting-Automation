@@ -1,24 +1,24 @@
 # Data-Cleaning-Reporting-Automation
 Automated data cleaning and reporting workflow using Python, Pandas, and data visualization.
 
-# Project Overview
+## Project Overview
 This project automates data cleaning and reporting workflows using Python. The system processes raw retail sales data, removes inconsistencies, handles missing values, and generates automated reports with visual summaries.
 
-# Objectives
+## Objectives
 - Automate data preprocessing tasks
 - Handle missing and inconsistent data
 - Remove duplicate records
 - Generate automated reports and charts
 - Improve reporting efficiency using Python
 
-# Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib
 - OpenPyXL
 - Visual Studio Code
 
-# Dataset
+## Dataset
 Dataset used: Retail Sales Dataset from Kaggle
 
 Features include:
@@ -28,28 +28,28 @@ Features include:
 - Transaction records
 - Purchase dates
 
-# Project Workflow
+## Project Workflow
 
-## 1. Data Collection
+### 1. Data Collection
 Imported retail sales dataset in CSV format.
 
-## 2. Data Cleaning
+### 2. Data Cleaning
 Performed:
 - Duplicate removal
 - Missing value handling
 - Column standardization
 - Data formatting
 
-## 3. Automated Reporting
+### 3. Automated Reporting
 Generated:
 - Sales summaries
 - Product category analysis
 - Visual sales reports
 
-## 4. Visualization
+### 4. Visualization
 Created automated charts using Matplotlib.
 
-# Project Structure
+## Project Structure
 
 ```text
 Data-Cleaning-Reporting-Automation/
@@ -65,7 +65,7 @@ Data-Cleaning-Reporting-Automation/
 └── README.md
 ```
 
-# Installation
+## Installation
 
 Install required libraries:
 
@@ -73,13 +73,13 @@ Install required libraries:
 pip install pandas matplotlib openpyxl
 ```
 
-# Output
+## Output
 The project generates:
 - Cleaned dataset CSV
 - Automated sales report chart
 - Processed analytical summaries
 
-# Key Features
+## Key Features
 - Automated data cleaning
 - Missing value handling
 - Duplicate removal
@@ -87,7 +87,7 @@ The project generates:
 - Data visualization
 - Efficient preprocessing workflow
 
-# Learning Outcomes
+## Learning Outcomes
 Through this project, I learned:
 - Data preprocessing techniques
 - Workflow automation
@@ -95,7 +95,7 @@ Through this project, I learned:
 - Reporting efficiency
 - Real-world data handling
 
-# Future Enhancements
+## Future Enhancements
 - Add Power BI dashboard integration
 - Automate PDF report generation
 - Connect with SQL databases
